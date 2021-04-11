@@ -1,11 +1,11 @@
-#### John Hopkins HomeWork 2021
-# GEGT Bootcamp 
+# John Hopkins HomeWork 2021
+### GEGT Bootcamp 
 
 
-### sql-challenge
-## GEGT BootCamp Homework #09 sql-challenge
+# sql-challenge
+### GEGT BootCamp Homework #09 sql-challenge
 
-# SQL Homework - Employee Database: A Mystery in Two Parts
+## SQL Homework - Employee Database: A Mystery in Two Parts
 
 ![sql.png](sql.png)
 
